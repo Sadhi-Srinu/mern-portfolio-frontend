@@ -37,12 +37,7 @@ const About = () => {
           </div>
           <div className="flex justify-center flex-col tracking-[1px] text-xl gap-5">
             <p>
-              My name is Srinu. I will graduate in Software Engineering from SMIU around 2024. I work as a web developer and freelancer. My hobbies include watching movies, series, playing video games, and occasionally cooking.
-            </p>
-            <p>
-              I have interests not only in technology but also in movies,
-              series, video games, and cooking. I excel in meeting deadlines for
-              my work.
+              I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.
             </p>
           </div>
       </div>
